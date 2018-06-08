@@ -1,0 +1,31 @@
+body{
+    width: 75vw;
+    margin:auto;
+    font-size: 18px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.centered {
+    text-align: center;
+}
+
+.priv_pol_link {
+    text-decoration: underline;
+    color: blue;
+    font-weight: bold;
+}
+
+.one_tab {
+    margin-left: 5vw;
+}
+
+.two_tab{
+    margin-left: 10vw;
+}
+
+.indent {
+    text-indent: 3em;
+}
